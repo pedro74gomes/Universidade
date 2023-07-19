@@ -1,0 +1,25 @@
+﻿  1>Checking Build System
+  CMake is re-running because generate.stamp.list is missing.
+  -- Building for: Visual Studio 17 2022
+  -- Selecting Windows SDK version 10.0.22000.0 to target Windows 10.0.22621.
+  -- The C compiler identification is MSVC 19.35.32217.1
+  -- The CXX compiler identification is MSVC 19.35.32217.1
+  -- Detecting C compiler ABI info
+  -- Detecting C compiler ABI info - done
+  -- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.35.32215/bin/Hostx64/x64/cl.exe - skipped
+  -- Detecting C compile features
+  -- Detecting C compile features - done
+  -- Detecting CXX compiler ABI info
+  -- Detecting CXX compiler ABI info - done
+  -- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.35.32215/bin/Hostx64/x64/cl.exe - skipped
+  -- Detecting CXX compile features
+  -- Detecting CXX compile features - done
+  -- Found OpenGL: opengl32   
+  -- Toolkits_DIR set to: 
+CUSTOMBUILD : error : GLUT not found
+CUSTOMBUILD : error : GLEW not found
+  -- Configuring done (3.9s)
+CUSTOMBUILD : error : DevIL not found
+  -- Generating done (0.0s)
+  -- Build files have been written to: C:/Users/pedro/Desktop/Trabalhos Pedro/Universidade/3┬║ano/2┬║semestre/CG/P10/code/build
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(230,5): error MSB8066: Custom build for 'C:\Users\pedro\Desktop\Trabalhos Pedro\Universidade\3ºano\2ºsemestre\CG\P10\code\build\CMakeFiles\32149d06817ed067e7f6b286760e0190\generate.stamp.rule' exited with code -1.

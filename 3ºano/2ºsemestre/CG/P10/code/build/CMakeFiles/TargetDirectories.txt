@@ -1,0 +1,3 @@
+C:/Users/pedro/Desktop/Trabalhos Pedro/Universidade/3ºano/2ºsemestre/CG/P10/code/build/CMakeFiles/class9.dir
+C:/Users/pedro/Desktop/Trabalhos Pedro/Universidade/3ºano/2ºsemestre/CG/P10/code/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pedro/Desktop/Trabalhos Pedro/Universidade/3ºano/2ºsemestre/CG/P10/code/build/CMakeFiles/ZERO_CHECK.dir
