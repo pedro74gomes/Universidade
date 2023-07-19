@@ -1,0 +1,10 @@
+^C:\USERS\PEDRO\DESKTOP\TRABALHOS PEDRO\UNIVERSIDADE\3ºANO\2ºSEMESTRE\COMPUTAÇÃO GRÁFICA\P05\CODE\BUILD\CMAKEFILES\591C74553FBB5E05B4A2DB4928854D18\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/pedro/Desktop/Trabalhos Pedro/Universidade/3ºano/2ºsemestre/Computação Gráfica/P05/code" "-BC:/Users/pedro/Desktop/Trabalhos Pedro/Universidade/3ºano/2ºsemestre/Computação Gráfica/P05/code/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/pedro/Desktop/Trabalhos Pedro/Universidade/3ºano/2ºsemestre/Computação Gráfica/P05/code/build/class7.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
