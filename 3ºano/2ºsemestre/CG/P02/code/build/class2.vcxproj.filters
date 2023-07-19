@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pedro\Desktop\Trabalhos Pedro\Universidade\3ºano\2ºsemestre\Computação Gráfica\P02\code\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pedro\Desktop\Trabalhos Pedro\Universidade\3ºano\2ºsemestre\Computação Gráfica\P02\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1607AFB0-508E-3839-B466-791113F977F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Users/pedro/Desktop/Trabalhos Pedro/Universidade/3ºano/2ºsemestre/Computação Gráfica/P02/code/build/CMakeFiles/class2.dir
+C:/Users/pedro/Desktop/Trabalhos Pedro/Universidade/3ºano/2ºsemestre/Computação Gráfica/P02/code/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pedro/Desktop/Trabalhos Pedro/Universidade/3ºano/2ºsemestre/Computação Gráfica/P02/code/build/CMakeFiles/ZERO_CHECK.dir
